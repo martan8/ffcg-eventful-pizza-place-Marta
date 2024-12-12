@@ -3,3 +3,5 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+FFCG.Eventful.Pizza.Place.API/appsettings.Development.json
+FFCG.Eventful.Pizza.Place.API/test.txt
